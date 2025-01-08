@@ -50,5 +50,5 @@ jobs:
         with:
           app-name: 'myusecasewebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_351F75D8CBD7433EBC5CFE08EDC10150 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1D5B46EDA46241CCB0BEFCA0C747BABD }}
           package: '*.war'
